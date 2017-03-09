@@ -1,17 +1,25 @@
-/* Index.css */
+/* style.css */
 
 /* Navigation */
+body {
+  margin: 0;
+}
+
 .topnav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .topnav li {
   display: inline;
   float: left;
+  border-right: 1px solid #fff;
 }
 
 .topnav li a {
@@ -22,7 +30,10 @@
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
-.topnav li a:hover {
+.topnav li a:hover:not(.active) {
   background-color: #111;
+}
+
+.topnav .active {
+  background-color: #4CAF50;
 }

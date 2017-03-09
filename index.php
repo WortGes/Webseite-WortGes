@@ -10,12 +10,12 @@
 <!-- Top Navigation Bar -->
 <div class="topnav" id="myTopnav">
   <ul>
-    <li><a href="index.php">Home</a></li>
+    <li><a class="active" href="index.php">Home</a></li>
     <li><a href="news.php">News</a></li>
     <li><a href="contact.php">Contact</a></li>
     <li><a href="about.php">About</a></li>
-    <li style="float:right"><a class="active" href="#register">Register</a></li>
-    <li style="float:right"><a class="active" href="#login">Login</a></li>
+    <li style="float:right"><a href="#register">Register</a></li>
+    <li style="float:right"><a href="#login">Login</a></li>
   </ul>
 </div>
 

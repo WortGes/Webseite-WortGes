@@ -1,0 +1,12 @@
+/* Index.css */
+
+/* Navigation */
+
+#navigation
+{
+  position: fixed;
+  top: 8px;
+  background-color: black;
+  color: white;
+  padding: 20px;
+}

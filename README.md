@@ -1,4 +1,4 @@
-# WortGEs Webseite
+# WortGes Webseite
 
 Konzept Idee der Webseite
 

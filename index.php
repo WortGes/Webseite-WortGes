@@ -9,10 +9,14 @@
 
 <!-- Top Navigation Bar -->
 <div class="topnav" id="myTopnav">
-  <a href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <ul>
+    <li><a href="index.php">Home</a></li>
+    <li><a href="news.php">News</a></li>
+    <li><a href="contact.php">Contact</a></li>
+    <li><a href="about.php">About</a></li>
+    <li style="float:right"><a class="active" href="#register">Register</a></li>
+    <li style="float:right"><a class="active" href="#login">Login</a></li>
+  </ul>
 </div>
 
 </body>

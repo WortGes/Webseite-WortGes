@@ -2,7 +2,7 @@
 <html lang="de">
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="include\index.css">
+    <link rel="stylesheet" href="css\style.css">
     <title>WortGes Software - Software Partner</title>
   </head>
 <body>

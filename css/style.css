@@ -19,7 +19,7 @@ body {
 .topnav li {
   display: inline;
   float: left;
-  border-right: 1px solid #fff;
+  /*border-right: 1px solid #fff;*/
 }
 
 .topnav li a {

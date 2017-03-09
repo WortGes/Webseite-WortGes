@@ -1,6 +1,13 @@
 /* Index.css */
 
 /* Navigation */
+.topnav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
 
 .topnav li {
   display: inline;

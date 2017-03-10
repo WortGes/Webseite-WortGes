@@ -14,8 +14,8 @@
     <li><a class="active" href="news.php">News</a></li>
     <li><a href="contact.php">Contact</a></li>
     <li><a href="about.php">About</a></li>
-    <li style="float:right"><a href="login.php">Login</a></li>
-    <li style="float:right"><a href="signup.php">Sign Up</a></li>
+    <li style="float:right"><a href="#login">Login</a></li>
+    <li style="float:right"><a href="#signup">Sign Up</a></li>
   </ul>
 </div>
 

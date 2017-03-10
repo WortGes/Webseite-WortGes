@@ -23,6 +23,7 @@ body {
 }
 
 .topnav li a {
+  font-family: calibri;
   display: block;
   color: white;
   text-align: center;

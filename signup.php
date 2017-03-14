@@ -9,7 +9,7 @@
   <div id="id01" class="modal">
     <span oneclick="document.getElementByID('id01').style.display='none'" class="close"
     title="Close Modal">x</span>
-      <form class="class="modal-content animate" action="/action_page.php">
+      <form class="modal-content animate" action="/action_page.php">
         <div class="container">
           <label><b>Email</b></label>
           <input type="text" placeholder="Enter Email" name="email" required>

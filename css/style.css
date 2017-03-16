@@ -37,3 +37,5 @@ body {
 .topnav .active {
   background-color: #4CAF50;
 }
+
+#menu ul li:hover, #menu ul li:active;
